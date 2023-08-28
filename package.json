@@ -1,6 +1,6 @@
 {
   "name": "nuxtjs-apollo-graphql-ws",
-  "version": "4.0.1-rc.5",
+  "version": "4.0.1-rc.6",
   "license": "MIT",
   "main": "lib/module.js",
   "typings": "types/index.d.ts",

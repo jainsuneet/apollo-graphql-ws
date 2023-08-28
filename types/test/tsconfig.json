@@ -11,7 +11,7 @@
       "esnext.asynciterable",
       "dom"
     ],
-    "types": ["vue-cli-plugin-apollo"]
+    "types": ["vue-cli-plugin-apollo-graphql-ws"]
   },
   "exclude": ["node_modules"]
 }

@@ -4,7 +4,7 @@
 
 import { VueApolloComponentOptions } from 'vue-apollo/types/options'
 import { ApolloProvider } from 'vue-apollo/types/apollo-provider'
-import { ApolloClientClientConfig } from 'vue-cli-plugin-apollo/graphql-client'
+import { ApolloClientClientConfig } from 'vue-cli-plugin-apollo-graphql-ws/graphql-client'
 import Vue, { ComponentOptions } from 'vue'
 import { ApolloHelpers, CookieAttributes } from '.'
 
